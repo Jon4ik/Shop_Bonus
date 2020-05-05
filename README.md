@@ -14,7 +14,7 @@ Shop_Bonus - плагин позволяющий получить бонусны
 
 Mysql :
 
-	  "credits"
+    "credits"
     {
         "driver"      "default"
         "host"    	  ""
@@ -22,7 +22,7 @@ Mysql :
         "user"    	  ""
         "pass"    	  ""
     }
-SqlLite:
+Sqlite:
 
 	"credits"
 	{
